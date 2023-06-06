@@ -1,3 +1,5 @@
+![image](https://github.com/salmaayad0/e-commerce-react/assets/117774174/a4a4bfda-0b61-45b6-ac3b-625e259a0554)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
